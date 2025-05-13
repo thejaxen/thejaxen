@@ -13,7 +13,7 @@ I build scalable backend systems and beautiful frontend interfaces.
 - 🧾 [Backend-Task Manager App](https://github.com/thejaxen/task-manager) – Spring Boot + React based task management app
 - 🧾 [Frontend-Task Manager App](https://github.com/thejaxen/Full-Stack-Task-Management-Frontend) – Spring Boot + React based task management app
 - 💳 [Financial Banking App Backend](https://github.com/thejaxen/Financial-Application) – RESTful banking application with authentication and email notifications
-- - 🔐 [JWT Authentication For Register and Login](https://github.com/thejaxen/JWT-) - Spring Boot + Spring Security
+-  🔐 [JWT Authentication For Register and Login](https://github.com/thejaxen/JWT-) - Spring Boot + Spring Security
 - 📦 [Full Stack CRUD Application](https://github.com/thejaxen/React-Spring-Full-Stack-CRUD-Application) - Spring Boot
 - 🎨 [Frontend CRUD App (React)](https://github.com/thejaxen/React-Spring-Full-Stack-Crud-Application-Frontend) - React
 
